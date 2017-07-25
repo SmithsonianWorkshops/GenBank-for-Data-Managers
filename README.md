@@ -1,1 +1,1 @@
-# GenBank-for-Data-Managers
+# A Data Manager's Guide to GenBank
